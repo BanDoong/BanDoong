@@ -3,7 +3,7 @@
 
 ### Currently
 - Master Candidate of Pusan National University (2021.03 - 2023.02)
-- 👓 Looking for a job 
+- Looking for a job 😎
 
 
 ### My Interest
