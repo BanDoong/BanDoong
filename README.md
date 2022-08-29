@@ -18,8 +18,7 @@
 ### Contact
 - aszass5387@gmail.com
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<a href="https://velog.io/@seondal">
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<a href="https://velog.io/@seondal"> ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--
 **BanDoong/BanDoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
