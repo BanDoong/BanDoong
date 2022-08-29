@@ -12,12 +12,14 @@
 - Self-Supervised Learning
 
 ### For more Information
-- <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+- <a href="https://velog.io/@seondal"><img src="https://img.hields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 - <a href="https://github.com/BanDoong"><img src=""></a>
 - Blog
 
 ### Contact
 - aszass5387@gmail.com
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 <!--
