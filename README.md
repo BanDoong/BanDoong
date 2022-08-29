@@ -1,17 +1,17 @@
 ### 😄 About Me 😄
 
-# Currently
+### Currently
 - Master Candidate of Pusan National University (2021.03 - 2023.02)
 
-# My Interest
+### My Interest
 - Multimodal Learning of Medical images 
 - Self-Supervised Learning
 
-# For more Information
+### For more Information
 - Resume
 - Blog
 
-# Contact
+### Contact
 - aszass5387@gmail.com
 
 <!--
