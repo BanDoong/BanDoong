@@ -1,4 +1,4 @@
-## 🧑‍🎨 About Me 
+## Hi I'm Seung Kyu! ✋
 --
 
 
@@ -12,12 +12,14 @@
 - Self-Supervised Learning
 
 ### For more Information
-- Resume
+- <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+- <a href="https://github.com/BanDoong"><img src=""></a>
 - Blog
 
 ### Contact
 - aszass5387@gmail.com
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+
 <!--
 **BanDoong/BanDoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
