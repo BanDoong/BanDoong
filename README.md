@@ -1,4 +1,4 @@
-## Hi I'm Seung Kyu! ✋
+## Hi I'm Deep Learning Researcher Seung Kyu! ✋
 
 ### Currently
 - Master Candidate of Pusan National University (2021.03 - 2023.02)
