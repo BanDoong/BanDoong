@@ -10,12 +10,10 @@
 - Multimodal Learning of Medical images 
 - Self-Supervised Learning
 
-<!--
 ### For more Information
 - <a href="https://velog.io/@seondal"><img src="https://img.hields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 - <a href="https://github.com/BanDoong"><img src=""></a>
-- Blog
--->
+- [Resume]: https://bandoong.github.io/ "Resume"
 
 ### Skills
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
