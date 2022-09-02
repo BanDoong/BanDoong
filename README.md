@@ -12,6 +12,7 @@
 
 ### For more Information
 - [Resume](https://bandoong.github.io/)
+- [Portfolio](https://bandoong.github.io/)
 
 ### Skills
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
