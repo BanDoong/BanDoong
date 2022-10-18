@@ -6,7 +6,7 @@
 - Looking for a job 😎
 
 
-### My Interest
+### My Research
 - Multimodal Learning of Medical images 
 - Self-Supervised Learning
 
