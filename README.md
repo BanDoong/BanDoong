@@ -3,7 +3,6 @@
 ### Currently
 - Master Candidate of Pusan National University (2021.03 - 2023.02)
   - Subjects : Multimodal Learning for early diagnosis of Alzheimer's Disease
-- Looking for a job 😎
 
 
 ### My Research
